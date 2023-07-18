@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+}
+h1{
+    padding: 10px;
+}
+.main{
+    background-color:cornsilk;
+    color: black;
+   width: 50%;
+   margin: 50px auto;
+   height: 50vh;
+ text-align: center;
+}
+.form{
+width: 100%;
+margin:  20px auto;
+
+}
+input{
+    padding: 5px;
+    margin-bottom: 10px;
+
+}
+.btn{
+   width: 30%; 
+   margin: 30px auto;
+   padding: 5px;
+   border-radius: 5px;
+   overflow: hidden;
+}

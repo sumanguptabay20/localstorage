@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+
+}
+h1{
+    margin: 10px;
+}
+
+.dashboard{
+    background-color: black;
+    color: white;
+    padding: 30px  ;
+    margin: 20px 5px;
+}
+a{
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border-radius: 5px;
+    margin : 0 10px;
+    text-decoration: none;
+}
+h4{
+    margin: 10px;
+}
