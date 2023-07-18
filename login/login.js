@@ -3,7 +3,6 @@ document.getElementById('myform').addEventListener('submit', (e) => {
         email = document.getElementById('email').value,
         password = document.getElementById('password').value;
         var userData = JSON.parse(localStorage.getItem('userData'));
-        console.log(userData.length);
      for(let i= 0; i < userData.length ; i++){
         userData[i].email=== email && userData[i].password=== password
      
